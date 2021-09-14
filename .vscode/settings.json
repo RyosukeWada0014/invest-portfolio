@@ -1,0 +1,7 @@
+{
+  "[typescript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "editor.quickSuggestions": { "strings": true },
+  "cSpell.words": ["tailwindcss", "vercel"],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
