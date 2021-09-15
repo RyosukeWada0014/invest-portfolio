@@ -4,7 +4,7 @@ import { Pie } from "react-chartjs-2";
 
 const PieChart: NextPage = () => {
   return (
-    <div >
+    <div>
       <div>pie Chart</div>
       <Pie
         data={{
