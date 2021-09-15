@@ -4,5 +4,6 @@
   "cSpell.words": ["chartjs", "tailwindcss", "vercel"],
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "typescript.preferences.importModuleSpecifier": "non-relative"
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "explorer.compactFolders": false
 }
