@@ -1,8 +1,8 @@
-﻿import { NextPage } from "next";
+﻿import type { NextPage } from "next";
 import Link from "next/link";
 import { Pie } from "react-chartjs-2";
 
-const PieChart: NextPage = () => {
+const PieChartPage: NextPage = () => {
   return (
     <div>
       <div>pie Chart</div>
@@ -47,4 +47,4 @@ const PieChart: NextPage = () => {
   );
 };
 
-export default PieChart;
+export default PieChartPage;
