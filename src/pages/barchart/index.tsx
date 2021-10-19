@@ -1,4 +1,4 @@
-﻿import { NextPage } from "next";
+﻿import type { NextPage } from "next";
 import Link from "next/link";
 import { Line } from "react-chartjs-2";
 
@@ -30,7 +30,6 @@ const LineCart: NextPage = () => {
                   "rgba(255, 159, 64, 1)",
                 ],
                 borderWidth: 1,
-    
               },
             ],
           }}
@@ -39,7 +38,6 @@ const LineCart: NextPage = () => {
           options={{ maintainAspectRatio: false }}
         />
       </div>
-
       <Link href="/">
         <a>戻る</a>
       </Link>
